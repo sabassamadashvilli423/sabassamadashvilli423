@@ -1,0 +1,5 @@
+﻿  mosw2.cpp
+C:\Users\Zauri\source\repos\mosw2\mosw2\mosw2.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\mosw2\mosw2\mosw2.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\mosw2\mosw2\mosw2.cpp(27,6): warning C4101: 'k': unreferenced local variable
+  mosw2.vcxproj -> C:\Users\Zauri\source\repos\mosw2\Debug\mosw2.exe
